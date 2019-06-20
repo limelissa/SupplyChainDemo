@@ -1,11 +1,9 @@
 Supply Chain IRIS Demo
 ==============
+IRIS SupplyChain demonstration
 
 ## Prerequisites
 Install **Docker**  
-Install **Git**
-
-Send me your docker and your git ID at melissa.li@intersystems.com, so that I can grant you the right to pull.
 
 ## Installation
 At the root of the project, run :  
