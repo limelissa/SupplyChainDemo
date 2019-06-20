@@ -28,9 +28,8 @@ On a web browser :
 Management portal at : http://localhost:9204/csp/sys/UtilHome.csp  
 Workflow UI at : http://localhost:9204/csp/workflow/index.html
 
-Rest at : http://localhost:9204/api/v1/calcul/prevision
+Rest at : http://localhost:9204/api/v1/calcul/prevision  
 Python dashboard at : http://localhost:8050/demo/historical
 
-Spark :
-Spark master : http://0.0.0.0:8090/
+Spark master : http://0.0.0.0:8090/  
 Zepplin : http://0.0.0.0:9097/#/notebook/2E5USDMXY
